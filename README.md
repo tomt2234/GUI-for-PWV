@@ -1,4 +1,7 @@
 # GUI-for-PWV
+
+This document provides an overview of the different GUI pages, for installation help see the 'How to Install' file and for helpt in using the GUI see the 'How to Use' file.
+
 Home Page
 
 This page acts as a welcome screen for would be users. The properties section of the code allows the global variables to be defined. These are variables that can be used across the whole page. Three buttons are used alongside three button pushed call-backs to record the type of measurements the user has and then pass them to the next page.
